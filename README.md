@@ -21,4 +21,8 @@ The main goal of this repo is to improve problem-solving skills and prepare for 
 | [1258-article-views-i](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
