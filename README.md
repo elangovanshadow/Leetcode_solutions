@@ -25,4 +25,9 @@ The main goal of this repo is to improve problem-solving skills and prepare for 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
