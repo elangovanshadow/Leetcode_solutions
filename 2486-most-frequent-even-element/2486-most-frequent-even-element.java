@@ -24,7 +24,6 @@ class Solution {
             }
         }
         for (Integer i : dic.keySet()) {
-            System.out.println(i);
             if(dic.get(i) == max){
                 ans.add(i);
             }
