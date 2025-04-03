@@ -30,4 +30,16 @@ The main goal of this repo is to improve problem-solving skills and prepare for 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [2486-most-frequent-even-element](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/2486-most-frequent-even-element) |
+## Hash Table
+|  |
+| ------- |
+| [2486-most-frequent-even-element](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/2486-most-frequent-even-element) |
+## Counting
+|  |
+| ------- |
+| [2486-most-frequent-even-element](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
