@@ -33,6 +33,7 @@ The main goal of this repo is to improve problem-solving skills and prepare for 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0204-count-primes) |
 | [2486-most-frequent-even-element](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -42,4 +43,16 @@ The main goal of this repo is to improve problem-solving skills and prepare for 
 |  |
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/2486-most-frequent-even-element) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/elangovanshadow/Leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
